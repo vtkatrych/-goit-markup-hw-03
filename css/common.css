@@ -28,3 +28,19 @@ p {
   padding-top: 120px;
   padding-bottom: 120px;
 }
+
+header .container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.nav-list {
+  display: flex;
+  gap: 100px;
+}
+
+.contacts ul {
+  display: flex;
+  gap: 30px;
+}

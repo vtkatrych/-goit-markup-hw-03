@@ -48,11 +48,11 @@
   color: #404bbf;
 }
 
-header {
+.header {
   border-bottom: 1px solid #e7e9fc;
 }
 
-header .container {
+.header .container {
   display: flex;
   align-items: center;
 }

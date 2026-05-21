@@ -19,10 +19,10 @@
   gap: 24px;
 }
 
-.features-list li {
+.features-item {
   flex-basis: calc((100% - 3 * 24px) / 4);
 }
 
-.features-title {
+.feature-title {
   margin-bottom: 8px;
 }

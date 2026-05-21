@@ -13,3 +13,16 @@
   letter-spacing: 0.02em;
   color: #434455;
 }
+
+.features-list {
+  display: flex;
+  gap: 24px;
+}
+
+.feature-list li {
+  flex-basis: calc((100% - 3 * 24px) / 4);
+}
+
+.freature-title {
+  margin-bottom: 8px;
+}

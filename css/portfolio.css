@@ -22,3 +22,28 @@
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
+
+.portfolio-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 48px 24px;
+}
+
+.portfolio-box {
+  border: 1px solid #e7e9fc;
+  border-top: none;
+  padding: 32px 16px;
+}
+
+.portfolio-list img {
+  display: block;
+}
+
+.portfolio-title {
+  margin-bottom: 72px;
+}
+
+.portfolio-item {
+  flex-basis: calc((100% - 48px) / 3);
+}

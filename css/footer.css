@@ -21,3 +21,22 @@
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
+
+footer .container {
+  display: flex;
+  padding: 0 15px;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+footer {
+  padding: 100px 0;
+}
+
+.logo2 {
+  margin-bottom: 16px;
+}
+
+.text-footer {
+  max-width: 246px;
+}

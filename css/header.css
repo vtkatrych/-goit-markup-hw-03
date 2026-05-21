@@ -47,3 +47,40 @@
 .contacts a:focus {
   color: #404bbf;
 }
+
+header {
+  border-bottom: 1px solid #e7e9fc;
+}
+
+header .container {
+  display: flex;
+  align-items: center;
+}
+
+.logo {
+  margin-right: 76px;
+}
+
+.nav-list {
+  display: flex;
+  gap: 40px;
+}
+
+.nav-list a {
+  display: inline-block;
+  padding: 24px 0;
+}
+
+.contacts {
+  margin-left: auto;
+}
+
+.contacts ul {
+  display: flex;
+  gap: 40px;
+}
+
+.contacts a {
+  display: inline-block;
+  padding: 24px 0;
+}

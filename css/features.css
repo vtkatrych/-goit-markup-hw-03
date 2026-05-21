@@ -6,7 +6,7 @@
   color: #2e2f42;
 }
 
-.features-text {
+.feature-text {
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
@@ -19,7 +19,7 @@
   gap: 24px;
 }
 
-.features-item {
+.feature-item {
   flex-basis: calc((100% - 3 * 24px) / 4);
 }
 
